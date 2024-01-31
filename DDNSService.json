@@ -1,0 +1,19 @@
+{
+  "Serviceproviders":[
+    {
+      "ServiceName": "FastDDNS - Dyn",
+      "HostName": "dyn.fastddns.net",
+      "URL":"https://{hostname}/nic/update?hostname={domain}&username={username}&userpass={password}"
+    },
+    {
+      "ServiceName": "FastDDNS - Client",
+      "HostName": "client.fastddns.net",
+      "URL":"https://{hostname}/?hostname={domain}&user_name={username}&password={password}"
+    },
+    {
+      "ServiceName": "No-Ip",
+      "HostName": "dynupdate.no-ip.com",
+      "URL":"https://{hostname}/nic/update?hostname={domain}&username={username}&userpass={password}"
+    }
+  ]
+}
