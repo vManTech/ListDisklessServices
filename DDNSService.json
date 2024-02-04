@@ -8,7 +8,7 @@
     {
       "ServiceName": "FastDDNS - Client",
       "HostName": "client.fastddns.net",
-      "URL": ["https://", "/?hostname=", "&user_name=", "&password="]
+      "URL": ["https://", "/?hostname=", "&user_name=", "&user_pass="]
     },
     {
       "ServiceName": "No-Ip",
