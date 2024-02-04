@@ -3,7 +3,7 @@
     {
       "ServiceName": "FastDDNS - Dyn",
       "HostName": "dyn.fastddns.net",
-      "URL": ["https://", "/nic/update?hostname=", "&username=", "&userpass="]
+      "URL": ["https://", "/nic/update?hostname="]
     },
     {
       "ServiceName": "FastDDNS - Client",
@@ -13,7 +13,7 @@
     {
       "ServiceName": "No-Ip",
       "HostName": "dynupdate.no-ip.com",
-      "URL": ["https://", "/nic/update?hostname=", "&username=", "&userpass="]
+      "URL": ["https://", "/nic/update?hostname="]
     }
   ]
 }
